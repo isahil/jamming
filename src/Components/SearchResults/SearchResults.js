@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import TrackList from '../TrackList/TrackList'
+import './SearchResults.css'
+
 class SearchResults extends Component {
-    // state = {  }
+
     render() {
       const {onAdd, searchResults} = this.props
         return (

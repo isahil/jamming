@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import './SearchBar.css'
 
 class SearchBar extends Component {
   
@@ -7,17 +8,18 @@ class SearchBar extends Component {
     this.state = {
       term: ''
     }
+    
   }
   
   search = () => this.props.onSearch(this.state.term)
   
-  handleTermChange = e => this.state.term = e.target.value
+  handleTermChange = e => this.setState({ term: e.target.value })
 
   render() {
     return (
       <div className="SearchBar">
         <input onChange={this.handleTermChange} placeholder="Enter A Song, Album, or Artist" />
-        <button className="SearchButton">SEARCH</button>
+        <button onClick={this.search} className="SearchButton">SEARCH</button>
       </div>
     );
   }
