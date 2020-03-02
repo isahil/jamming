@@ -1,5 +1,5 @@
 const clientID = `${process.env.REACT_APP_CLIENT_ID}`;
-const redirectURI = "http://localhost:3000/";
+const redirectURI = "https://isahil.github.io/jamming";
 let accessToken;
 
 const Spotify = {
