@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jamming/static/css/main.390abce6.chunk.css",
+    "main.css": "/jamming/static/css/main.4e8dee03.chunk.css",
     "main.js": "/jamming/static/js/main.43b9961f.chunk.js",
     "main.js.map": "/jamming/static/js/main.43b9961f.chunk.js.map",
     "runtime-main.js": "/jamming/static/js/runtime-main.0f02522a.js",
@@ -8,16 +8,16 @@
     "static/js/2.ea1381cf.chunk.js": "/jamming/static/js/2.ea1381cf.chunk.js",
     "static/js/2.ea1381cf.chunk.js.map": "/jamming/static/js/2.ea1381cf.chunk.js.map",
     "index.html": "/jamming/index.html",
-    "precache-manifest.d847872184c1664bca515ec8119e07be.js": "/jamming/precache-manifest.d847872184c1664bca515ec8119e07be.js",
+    "precache-manifest.3fd3333919b4c91084882a955f2d99a8.js": "/jamming/precache-manifest.3fd3333919b4c91084882a955f2d99a8.js",
     "service-worker.js": "/jamming/service-worker.js",
-    "static/css/main.390abce6.chunk.css.map": "/jamming/static/css/main.390abce6.chunk.css.map",
+    "static/css/main.4e8dee03.chunk.css.map": "/jamming/static/css/main.4e8dee03.chunk.css.map",
     "static/js/2.ea1381cf.chunk.js.LICENSE.txt": "/jamming/static/js/2.ea1381cf.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/jamming/static/media/background_photo_desktop.37be7357.jpg"
+    "static/media/App.css": "/jamming/static/media/fruitAndTech.bfc21a81.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.0f02522a.js",
     "static/js/2.ea1381cf.chunk.js",
-    "static/css/main.390abce6.chunk.css",
+    "static/css/main.4e8dee03.chunk.css",
     "static/js/main.43b9961f.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a0621913f7b31991f59480d3f9be7c6",
+    "revision": "b801a84da63f38706993b74dcb35fe80",
     "url": "/jamming/index.html"
   },
   {
-    "revision": "276393e795dfc99c6dce",
-    "url": "/jamming/static/css/main.390abce6.chunk.css"
+    "revision": "7ee2154186aeed97d2d4",
+    "url": "/jamming/static/css/main.4e8dee03.chunk.css"
   },
   {
     "revision": "ca2449acc6084cc2b7e0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jamming/static/js/2.ea1381cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "276393e795dfc99c6dce",
+    "revision": "7ee2154186aeed97d2d4",
     "url": "/jamming/static/js/main.43b9961f.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jamming/static/js/runtime-main.0f02522a.js"
   },
   {
-    "revision": "37be7357a5f8583073df7e0aec787eaa",
-    "url": "/jamming/static/media/background_photo_desktop.37be7357.jpg"
+    "revision": "bfc21a81ea5dd6808d8d9910e641d2dd",
+    "url": "/jamming/static/media/fruitAndTech.bfc21a81.jpeg"
   }
 ]);
